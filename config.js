@@ -1,5 +1,5 @@
 // U compression frontend configuration.
-// Use your Supabase Project URL and publishable/anon key.
+// Paste your Supabase Project URL and publishable/anon key between the quotes.
 // Never put a Supabase service_role key in this file.
-window.U_COMPRESSION_SUPABASE_URL = "PASTE_YOUR_SUPABASE_PROJECT_URL_HERE";
-window.U_COMPRESSION_SUPABASE_ANON_KEY = "PASTE_YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY_HERE";
+window.U_COMPRESSION_SUPABASE_URL = "";
+window.U_COMPRESSION_SUPABASE_ANON_KEY = "";
